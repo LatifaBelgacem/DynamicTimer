@@ -1,0 +1,38 @@
+.time-container {
+    text-align: center;
+}
+.time-inner-container {
+    display: inline-block;
+}
+.time-digits {
+    font-size: 4em;
+}
+.time-text {
+    display: flex;
+    justify-content: space-around;
+    color: grey;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+.Style{
+    border: 3px solid black;
+    height: 346px;
+    width: 240px;
+}
+.Border{
+    border: 3px solid black;
+    width: 269px;
+    height: 400px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.Timer{
+    border: 3px solid black;
+    height: 346px;
+    width: 240px;
+}
